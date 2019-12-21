@@ -1,0 +1,2 @@
+input should be in form of value,token
+input should be in tiny language

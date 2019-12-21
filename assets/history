@@ -1,0 +1,56 @@
+
+    1  sudo apt-get update
+    2  sudo apt-get install curl
+    3  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+    4  sudo apt-get install nodejs
+    5  node -v 
+    6  npm -v
+    7  sudo apt install software-properties-common apt-transport-https wget
+    8  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+    9  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+   10  sudo apt update
+   11  sudo apt install code
+   12  cdoe
+   13  code 
+   14  ls
+   15  chomd 777
+   16  sudo chmod 777
+   17  cd ,,
+   18  cd ..
+   19  chmod 777 home 
+   20  ls
+   21  cd ..
+   22  ls
+   23  chmod 777 home 
+   24  sudo chmod 777 home 
+   25  ls
+   26  cd Mega-Parser/
+   27  pip3 install -r requirement.txt
+   28  pip3 install -r requirements.txt
+   29  sudo apt-get install -y python3 python3-dev
+   30  sudo apt-get update -y
+   31  sudo apt-get install -y python3 python3-dev
+   32  pip3 install -r requirements.txt
+   33  sudo apt-get install libpq-dev python-dev libxml2-dev libxslt1-dev libldap2-dev libsasl2-dev libffi-dev
+   34  pip3 install -r requirements.txt
+   35  sudo apt-get install gcc
+   36  sudo apt-get install python-dateutil python-docutils python-feedparser python-gdata python-jinja2 python-ldap python-libxslt1 python-lxml python-mako python-mock python-openid python-psycopg2 python-psutil python-pybabel python-pychart python-pydot python-pyparsing python-reportlab python-simplejson python-tz python-unittest2 python-vatnumber python-vobject python-webdav python-werkzeug python-xlwt python-yaml python-zsi
+   37  sudo apt-get install python3 python-dev python3-dev      build-essential libssl-dev libffi-dev      libxml2-dev libxslt1-dev zlib1g-dev      python-pip
+   38  pip3 install -r requirements.txt
+   39  sudo apt-get install python-pip
+   40  pip3 install pygraghviz
+   41  pip install pygraghviz
+   42  pip install git+git://github.com/pygraphviz/pygraphviz.git
+   43  pip3 install git+git://github.com/pygraphviz/pygraphviz.git
+   44  sudo apt-get install python3.6-dev libmysqlclient-dev
+   45  sudo apt-get install python3 -dev libmysqlclient-dev
+   46  sudo apt-get install python3-dev libmysqlclient-dev
+   47  pip3 install git+git://github.com/pygraphviz/pygraphviz.git
+   48  pip3 install pygraghviz
+   49  pip3 install -r requirements.txt
+   50  apt-get install -y graphviz-dev
+   51  sudo apt-get install -y graphviz-dev    //this one make it work
+   52  pip3 install -r requirements.txt
+   53  python3 main.py 
+   54  ls
+
